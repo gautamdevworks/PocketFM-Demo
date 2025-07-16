@@ -106,20 +106,36 @@ lib/
 
 ## 📸 Screenshots
 
-![Home Screen (Dark Mode)](docs/screenshots/1.png)
-![Category Screen (Dark Mode)](docs/screenshots/2.png)
-![Profile Screen (Dark Mode)](docs/screenshots/3.png)
-![Category Filter Product (Dark Mode)](docs/screenshots/4.png)
-![Product Detail Screen (Dark Mode)](docs/screenshots/5.png)
-![Details Review Part (Dark Mode)](docs/screenshots/6.png)
-![Add to card (Dark Mode)](docs/screenshots/7.png)
-![Cart Screen (Dark Mode)](docs/screenshots/8.png)
-![Home Screen (Light Mode)](docs/screenshots/9.png)
-![Category Filter Product (Light Mode)](docs/screenshots/10.png)
-![Product Detail Screen (Light Mode)](docs/screenshots/11.png)
-![Profile Screen (Light Mode)](docs/screenshots/12.png)
-![Add to card (Light Mode)](docs/screenshots/13.png)
-![Cart Screen (Light Mode)](docs/screenshots/14.png)
+<table>
+  <tr>
+    <td><img src="docs/screenshots/1.png"  width="250"/></td>
+    <td><img src="docs/screenshots/2.png"  width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/3.png"  width="250"/></td>
+    <td><img src="docs/screenshots/4.png"  width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/5.png"  width="250"/></td>
+    <td><img src="docs/screenshots/6.png"  width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/7.png"  width="250"/></td>
+    <td><img src="docs/screenshots/8.png"  width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/9.png"  width="250"/></td>
+    <td><img src="docs/screenshots/10.png"  width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/11.png"  width="250"/></td>
+    <td><img src="docs/screenshots/12.png"  width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/13.png"  width="250"/></td>
+    <td><img src="docs/screenshots/14.png"  width="250"/></td>
+  </tr>
+</table>
 
 ---
 
