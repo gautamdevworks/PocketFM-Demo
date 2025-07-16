@@ -82,6 +82,12 @@ $ flutter analyze
 $ flutter run
 ```
 
+### 📥 Download APK
+
+You can try the app instantly without building it yourself:
+
+[**Download the latest Android APK**](https://drive.google.com/file/d/1swds7sMk2xz0-nPNNLIIxFB5rNezHyVp/view?usp=sharing)
+
 ### Running tests
 
 ```bash
